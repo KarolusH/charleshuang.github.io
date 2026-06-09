@@ -1,34 +1,25 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Student. <a href='#'>University of Notre Dame</a>. 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: DukePoliSci-Huang_Charles-KAH-11419-2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <div class="social" style="margin-top: 0.15rem; text-align: left;">
+      <div class="contact-icons" style="display: flex; align-items: center; gap: 0.3rem; font-size: 2.67rem; line-height: 1;">
+        <a href="mailto:yhuang44@nd.edu" title="email" style="display: flex; align-items: center; margin-left: -0.2rem;"><i class="fa-solid fa-envelope" style="font-size: 1.12em;"></i></a>
+        <a href="https://www.linkedin.com/in/yanzhong-huang/" title="LinkedIn" aria-label="LinkedIn" style="display: flex; align-items: center;"><i class="fa-brands fa-linkedin"></i></a>
+      </div>
+    </div>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # social icons are displayed below the profile photo
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! My name is Yanzhong and I'm a PhD student in the Department of Political Science at the University of Notre Dame with a focus on American politics and methodology. My substantive research interests are on political behavior, political psychology and minority politics. I study how changing political landscape in the U.S. affect the ideology and political behavior of immigrants, with a focus on Asian American immigrants. I employ a range of methods in my research, including survey, latent variable modelling, and other causal inference methods. I hold an M.A. in Political Science from Duke University, a B.A. in Finance from Renmin University of China, and a *licence* from KEDGE Business School in Marseille, France.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I also go by Charles. You can reach me at yhuang44 [at] nd [dot] edu.
