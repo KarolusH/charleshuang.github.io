@@ -32,3 +32,9 @@ html[data-theme="dark"] {
 h1.post-title > .font-weight-bold {
   font-weight: 700 !important;
 }
+
+#navbar.fixed-top {
+  right: 0;
+  left: 0;
+  width: 100%;
+}
